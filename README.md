@@ -54,3 +54,5 @@ Asks the user to input 'n' or 'r' or 'e'-
 To play against the computer type 'c' when prompted else 'u'to have yourself play.  
 
 For cipher decryption, you can input the encrypted text (by substituting shifted letters) in a text file and let the computer try to decode it for you
+
+To run any game, simply run the respective script - hangman.py / compscrab.py or userscrab.py / encrypt_decrypt.py
