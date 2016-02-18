@@ -1,4 +1,3 @@
-HAIL CAESAR!
 
 import string
 import random
